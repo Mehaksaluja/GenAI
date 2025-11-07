@@ -1,0 +1,9 @@
+venv/
+pycache/
+.env
+*.pyc
+.DS_Store
+*.bin
+*.pt
+huggingface_cache/
+pip_cache/
